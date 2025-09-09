@@ -1,1 +1,1 @@
-# 강원대학교 문제해결프로그래밍 수업
+# Kangwon National University Problem Solving Programming Class
